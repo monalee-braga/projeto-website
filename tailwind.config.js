@@ -40,7 +40,7 @@ module.exports = {
           800: '#ffffff',
           900: '#ffffff',
         },
-        'bright_pink_(crayola)': {
+        'bright_pink_(crayola)_2': {
           DEFAULT: '#F15E6C',
           100: '#3e050b',
           200: '#7c0b16',
@@ -64,8 +64,12 @@ module.exports = {
           800: '#f3bfc9',
           900: '#f9dfe4',
         },
+        teste: '#D85364',
+        teste_2: '#F36D65',
+        teste_3: '#F59797',
       },
     },
   },
   plugins: [],
 };
+
